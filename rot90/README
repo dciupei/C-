@@ -1,0 +1,11 @@
+Name: David Ciupei
+Email: David.Ciupei@wsu.edu
+SID: 11383576
+
+Files:
+-Makefile
+-rot90.cpp
+-t
+
+Project description:
+	This project is coded in C++. It takes a text of any size from the command line and rotates it 90 degrees. In the code the longest word is found and then for each word that is shorter then the longest word, then when rotating the text after each character is printed spaces are then printed to fill the remaining spots. To run the program first type in ‘make’ in the command line then type in ‘printf "What stands\nin the way\nbecomes\nthe way\n" | ./rot90’ for example. The text can be changed. 
